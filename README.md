@@ -1,5 +1,3 @@
-# guess-my-number-8bits
-
 # Guess My Number 8bit
 
 * O que é? 
