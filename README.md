@@ -1,4 +1,4 @@
-# Guess My Number 8bit
+# Guess My Number 8bits
 
 * O que é? 
   * O jogo (Guess My Number) é uma página web responsiva interativa com o usuário. A página foi construída utilizando **HTML** e **CSS** e programada em **JavaScript**.
