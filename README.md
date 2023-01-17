@@ -5,11 +5,11 @@
 * Sobre o que é? 
   * O projeto é um jogo onde o usuário tem que adivinhar o número sorteado pelo programa para conseguir o melhor score (20 pontos) para ser o mestre do jogo. Caso isso não aconteça o programa vai dando dicas se o número digitado pelo usuário está perto ou não o número sorteado.
 
-* No projeto foi criada 1 página:
+* No projeto foram criados 3 arquivos:
 
-  * Principal (index.html),
-  * Três links para acessar páginas externas
-  * O projeto publicado é referente ao estudo do Curso de HTML5, CSS3 realizado na Plataforma da Curso em Video (https://www.cursoemvideo.com/)
+  * 1 arquivo HTML (index.html),
+  * 1 folha de estilo CSS (style.css),
+  * 1 arquivo JS (script.js)
 
 ## Ferramentas utilizadas
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,18 +18,17 @@
 
 
 ## Conceitos utilizados
-  * Implementação de botões
-  * Aplicação de Bordas.
-  * Redirecionamentos de links para páginas externas.
-  * Ajuste de Imagens Responsivas ao tamanho da tela.
-  * Vídeo Responsivo de link externo (embed code).
-  * Uso de variaveis em CSS
-  * Animação utilizando Hover na barra de navegação, nos links e nas palavras destacadas.
-  * Fade (linear-gradiente) na colocação de fundos e barras.
-  * Tradução de nomes em inglês utilizando Abreviation Element <abbr>.
-  * Utilização de fontes externas dentro do CSS.
+  * Construção e Implementação da lógica do jogo (variáveis, if/else, funções, arrays, objetos, loops e etc...)
+  * Manipulação do DOM dos elemestos HTLM e CSS conforme a interação do usuário (textos, números, estilos que mudam conforme a jogada)
+  * Utilização de Math objects para sortear sempre um número novo (página carregada ou quando clica em "PLAY AGAIN")
+  * Interação com o Score e HighScore por meio do DOM.
+  * Manipulação de classes no CSS (mostrar ou não uma das classes)
+  * Animação em CSS utilizando Hover nos botões (play again, check) melhorando experiência do usuário com a aplicação.
+  * Página Responsiva conforme o tamanho da tela do usuário.
+  * Importação de fontes externas para dentro do CSS.
+  * Implementação de Design 8bits (linguagem visual que conversa com a proposta do "jogo" melhorando a experiência do usuário)
 
 Aplicado conceitos referente a Experiencia do Usuario (UX Design), criando uma pagina de facil utilização e entendimento do usuario.
 
 ## Site Publicado no link abaixo
- * https://vazfernando.github.io/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-/
+ * https://vazfernando.github.io/guess-my-number-8bits/
